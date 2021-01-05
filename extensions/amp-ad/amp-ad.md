@@ -457,6 +457,7 @@ See [amp-ad rules](validator-amp-ad.protoascii) in the AMP validator specificati
 -   [torimochi](../../ads/torimochi.md)
 -   [Tracdelight](../../ads/tracdelight.md)
 -   [TripleLift](../../ads/triplelift.md)
+-   [Digiteka](../../ads/digiteka.md)
 -   [Trugaze](../../ads/trugaze.md)
 -   [UZOU](../../ads/uzou.md)
 -   [ValueCommerce](../../ads/valuecommerce.md)
